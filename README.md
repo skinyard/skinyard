@@ -9,6 +9,4 @@ i like bands and nhl<br/>
 also a big fan of my friends
 </p>
 
-<p align="center">
-  <img width="100" height="55" src="https://files.catbox.moe/enz91t.webp">
-</p>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://komarev.com/ghpvc/?username=skinyard&label=punks&style=flat-square&color=070707&base=9561)
